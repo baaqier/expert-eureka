@@ -61,15 +61,15 @@ var defaultRatingOptions = {
   step: 1,
   starCaptions: {
     0.5: 'yo',
-    1: 'Very Dissatisfied',
+    1: 'Poor',
     1.5: 'Good',
-    2: 'Somewhat Dissatisfied',
+    2: 'Average',
     2.5: 'Two & Half Stars',
-    3: 'Neutral',
+    3: 'Satisfied',
     3.5: 'Three & Half Stars',
-    4: 'Somewhat Satisfied',
+    4: 'Happy',
     4.5: 'Four & Half Stars',
-    5: 'Highly Satisfied'
+    5: 'Delighted'
   }
 }
 
